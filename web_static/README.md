@@ -1,4 +1,5 @@
 The general objectives of this repository is to learn the following:
+
 What is HTML
 How to create an HTML page
 What is a markup language
